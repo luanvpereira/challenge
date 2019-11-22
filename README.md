@@ -28,3 +28,6 @@ library: https://material.io/resources/icons/?style=baseline
     - white: #fff;
     - text-color: #221d1a;
     - blue: #216daf;
+
+### Referência layout:
+![Screenshot](layout.png)
