@@ -5,12 +5,12 @@
 2. Criar layout utilizando técnicas de display:flex
 3. Criar sistema de abas (transações & categorias)
 - 3.1 Aba transações:
-    1. Listar transações com o ícone, título, descrição e preço
-    2. Mostrar ícone de acordo com o título
+    1. Listar transações com o ícone, título (categoria), descrição e preço
+    2. Mostrar ícone de acordo com o título (categoria)
     3. Criar filtro para agrupar transações por dia (Padrão)
     4. Criar filtro para agrupar transações por mês
 - 3.2 Aba categorias
-    1. Agrupar categorias por mês e calcular seu valor com base na transações correspondentes
+    1. Agrupar categorias (chave title do json) por mês e calcular seu valor com base na transações correspondentes
 
 
 ### Assets:
