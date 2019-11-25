@@ -16,8 +16,10 @@
 ### Assets:
     - (texto) <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet" />
     - (icones) <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-    
+
+### Links para consulta
 library: https://material.io/resources/icons/?style=baseline
+flexbox froggy: https://flexboxfroggy.com/
 
 ### Colors:
     - primary-color: #ec7424;
