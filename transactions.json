@@ -2436,18 +2436,6 @@
         "id": "5ba7b001-c139-4133-be4d-daf77579203a"
     },
     {
-        "description": "Cereja",
-        "category": "transaction",
-        "amount": 14600,
-        "time": "2018-09-23T14:18:57Z",
-        "title": "viagem",
-        "details": {
-            "lat": -23.5536247,
-            "lon": -46.3401303
-        },
-        "id": "5ba7a0d2-9bf7-42c7-8e89-934577db359a"
-    },
-    {
         "description": "Uber do Brasil Tecnolo",
         "category": "transaction",
         "amount": 785,
@@ -2700,30 +2688,6 @@
         "id": "5b9e7710-d11d-4cc2-8d74-73ef03ce9b64"
     },
     {
-        "description": "Cereja",
-        "category": "transaction",
-        "amount": 8450,
-        "time": "2018-09-16T15:23:58Z",
-        "title": "viagem",
-        "details": {
-            "lat": -23.5413884,
-            "lon": -46.3391633
-        },
-        "id": "5b9e758f-fecc-43aa-8709-95b668b284ef"
-    },
-    {
-        "description": "Uber do Brasil Tecnolo",
-        "category": "transaction",
-        "amount": 927,
-        "time": "2018-09-16T04:23:06Z",
-        "title": "transporte",
-        "details": {
-            "lat": -23.5160411,
-            "lon": -46.340647
-        },
-        "id": "5b9ddaab-d92b-4ed8-af2f-b6af1ea5687b"
-    },
-    {
         "description": "Pizzaria da Mamma",
         "category": "transaction",
         "amount": 1800,
@@ -2952,18 +2916,6 @@
         "id": "5b89cd64-85dd-4761-bb91-719490595349"
     },
     {
-        "description": "Rainha do Mercado",
-        "category": "transaction",
-        "amount": 5895,
-        "time": "2018-08-31T20:51:52Z",
-        "title": "restaurante",
-        "details": {
-            "lat": -23.5655535,
-            "lon": -46.6924259
-        },
-        "id": "5b89aa68-87b4-4ab3-b910-87dc3be0fbb2"
-    },
-    {
         "description": "Pag*Vieverte",
         "category": "transaction",
         "amount": 1220,
@@ -2974,18 +2926,6 @@
             "lon": -46.6917762
         },
         "id": "5b895008-c5f6-4bed-aab0-e82b24b2263f"
-    },
-    {
-        "description": "Rainha do Mercado",
-        "category": "transaction",
-        "amount": 3600,
-        "time": "2018-08-30T16:22:11Z",
-        "title": "restaurante",
-        "details": {
-            "lat": -23.565529,
-            "lon": -46.6925409
-        },
-        "id": "5b8819b4-7666-4f7e-9969-1b2238261e26"
     },
     {
         "description": "Rubik Snack Bar Cafete",
@@ -4368,18 +4308,6 @@
         "id": "5b3e038d-97e2-4733-b663-b36c39366650"
     },
     {
-        "description": "Profissionalismo D L e",
-        "category": "transaction",
-        "amount": 2300,
-        "time": "2018-07-03T11:38:43Z",
-        "title": "saúde",
-        "details": {
-            "lat": -23.5622386,
-            "lon": -46.5881082
-        },
-        "id": "5b3b6044-79a8-4751-9e6f-a4ed4154a38e"
-    },
-    {
         "description": "Mc Donalds-Boulevard",
         "category": "transaction",
         "amount": 850,
@@ -4438,30 +4366,6 @@
             "lon": -46.587353
         },
         "id": "5b34d628-da3e-4581-8fbf-e3935ecdef54"
-    },
-    {
-        "description": "Profissionalismo D L e",
-        "category": "transaction",
-        "amount": 1635,
-        "time": "2018-06-28T12:09:02Z",
-        "title": "saúde",
-        "details": {
-            "lat": -23.5616945,
-            "lon": -46.5869861
-        },
-        "id": "5b34cfde-3d12-4008-855a-b7d5ebdac172"
-    },
-    {
-        "description": "Uber do Brasil Tecnolo",
-        "category": "transaction",
-        "amount": 1132,
-        "time": "2018-06-28T04:11:57Z",
-        "title": "transporte",
-        "details": {
-            "lat": -23.5420592,
-            "lon": -46.575292
-        },
-        "id": "5b34600e-dd93-49ea-87ad-50d31b1a5bf6"
     },
     {
         "description": "Lanches Puppy",
@@ -6562,18 +6466,6 @@
             "lon": -46.6453335956858
         },
         "id": "5a626878-2d19-4902-887d-98436fc208d3"
-    },
-    {
-        "description": "Francisco Lino Filho",
-        "category": "transaction",
-        "amount": 5500,
-        "time": "2018-01-19T20:09:54Z",
-        "title": "vestuário",
-        "details": {
-            "lat": -23.5515561,
-            "lon": -46.65065
-        },
-        "id": "5a625094-0bca-4682-b99f-ff3f500ad2ba"
     },
     {
         "description": "Rancho Nordestino",

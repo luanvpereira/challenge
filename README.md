@@ -31,3 +31,7 @@ library: https://material.io/resources/icons/?style=baseline
 
 ### Referência layout:
 ![Screenshot](layout.png)
+
+# Como rodar o projeto?
+- **npm ci** ou **npm install**: para instalar as dependências
+- **npm start**: para rodar o projeto em modo de desenvolvimento
