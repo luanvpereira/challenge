@@ -15,7 +15,7 @@ module.exports = {
             filename: '[name].css',
         }),
         new HtmlWebpackPlugin({
-            title: 'Development'
+            template: './public/index.html'
         })
     ],
     devtool: 'inline-source-map',
